@@ -3,7 +3,7 @@ gem 'bundler', '2.6.2'
 source 'https://rubygems.org'
 group :jekyll_plugins do
     gem 'observer'
-    gem 'wdm', '>= 0.1.0'
+    gem 'listen', '~> 3.0'
     gem 'classifier-reborn'
     gem 'jekyll'
     gem 'jekyll-archives'
