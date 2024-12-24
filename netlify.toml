@@ -1,2 +1,8 @@
 [build]
+  command = "bundle exec jekyll build"
+  publish = "_site"
   environment = { BUNDLER_VERSION = "2.6.2" }
+[[plugins]]
+  package = "@netlify/plugin-python"
+[build.environment]
+  PYTHON_VERSION = "3.13.1"
