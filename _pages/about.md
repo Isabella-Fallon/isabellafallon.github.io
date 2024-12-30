@@ -13,14 +13,16 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Research interests: Neural mechanisms underlying skilled movements, sustained performance, and motor sequences. Biofeedback systems, brain computer interfaces, adaptive neural interfaces. 
-Isabella Fallon is currently a postdoctoral associate under Henry Yin at Duke University School of Medicine. There, she is studying how neural circuits generate skilled movements. She aims to leverage this understanding to build innovative biomedical devices that restore loss of motor function. 
+Research Interests:
+Neural mechanisms underlying skilled movements, sustained performance, and motor sequences. Biofeedback systems, brain-computer interfaces, and adaptive neural interfaces.
 
-In May 2024, she received her PhD in Neurobiology from Duke University School of Medicine where she studied how striatal circuits contribute to decision making and kinematics under Dr. Henry Yin. Her work identified a novel 'push-pull’ mechanism of striatal circuits that determines movement trajectories towards goal targets. 
+Isabella Fallon is a postdoctoral associate working under Dr. Henry Yin at Duke University School of Medicine. Her research focuses on how neural circuits generate skilled movements. She aims to apply this knowledge to develop innovative biomedical devices that restore lost motor function.
 
-In May 2017, Isabella received her B.S. in Psychology and Neuroscience from the University of Colorado Boulder where she researched the neural prophylactic effects of exercise and stressor control under Dr. Steven Maier. For her work, she was awarded the Best Undergraduate Thesis in Neuroscience, 2018 Women Who Make a Difference nomination, Undergraduate Research Opportunities Program-HMMI Research Grant, Biological Sciences Initiative Scholars Program Summer Award Research Grant, and the Undergraduate Research Opportunities Program Research Assistantship Award.
+In May 2024, Isabella earned her PhD in Neurobiology from Duke University School of Medicine, where she studied the role of striatal circuits in decision-making and kinematics under the mentorship of Dr. Henry Yin. Her work uncovered a novel "push-pull" mechanism in striatal circuits that determines movement trajectories toward goal-directed targets.
 
-Isabella is devoted to mentoring students including thoes from underrepresented backgrounds and has done so through the URS program at Duke University, the Duke athletics student mentorship program, and the BSI and UROP program at University of Colorado Boulder. 
+In May 2017, she received her B.S. in Psychology and Neuroscience from the University of Colorado Boulder. There, under the guidance of Dr. Steven Maier, she investigated the neural prophylactic effects of exercise and control on stress. Her achievements earned her several honors, including the Best Undergraduate Thesis in Neuroscience out of 150 students, the 2018 Women Who Make a Difference award, and multiple research grants and fellowships, such as the Undergraduate Research Opportunities Program-HHMI Research Grant, the Biological Sciences Initiative Scholars Program Summer Award, and the Undergraduate Research Opportunities Program Research Assistantship Award.
 
-In her free time, Isabella loves spending time outdoors skiing, trail running, climbing and playing sports. She loves to travel and enjoys all things in life.
+Isabella is deeply committed to mentoring students, particularly those from underrepresented backgrounds. She has served as a mentor through the URS program at Duke University, the Duke Athletics Student Mentorship Program, and the BSI and UROP programs at the University of Colorado Boulder.
+
+In her free time, Isabella enjoys spending time outdoors skiing, trail running, climbing, and playing sports. She loves to travel and embraces all the joys life has to offer.
 
