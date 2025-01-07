@@ -38,3 +38,6 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         ref: main
+        
+    - name: Unfreeze Gemfile.lock
+      run: bundle config set frozen false
