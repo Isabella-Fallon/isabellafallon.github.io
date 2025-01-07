@@ -5,16 +5,14 @@
       "position": "Ph.D., Neurobiology",
       "startDate": "2019",
       "endDate": "2024",
-      "highlights": ["Carrying out cutting-edge research on the neural mechanisms underlying skilled dexterous movements and kinematics. "]
-      "highlights": ["Mentoring PhD and undergraduate students."]
+      "highlights": ["Carrying out cutting-edge research on the neural mechanisms underlying skilled dexterous movements and kinematics. ", "Mentoring PhD and undergraduate students." ]
     }
      {
       "name": "University of Colorado Boulder",
       "position": "B.A., Psychology and Neuroscience",
       "startDate": "2013",
       "endDate": "2017",
-      "highlights": ["Thesis Title: Evaluating Stressor Controllability Effects in Female Rats"]
-      "highlights": ["Advisor: Steven Maier"]
+      "highlights": ["Thesis Title: Evaluating Stressor Controllability Effects in Female Rats", "Advisor: Steven Maier"]
     }
     
   ],
@@ -24,19 +22,16 @@
       "position": "Postdoctoral Researcher",
       "startDate": "2024",
       "endDate": "Present",
-      "highlights": ["Dissertation Title: Striatal Pathways for Action Counting and Steering"]
-      "highlights": ["Advisor: Henry Yin"]
+      "highlights": ["Dissertation Title: Striatal Pathways for Action Counting and Steering", "Advisor: Henry Yin"]
     }
      {
       "name": "Yin Laboratory, Duke University",
       "position": "Graduate Researcher",
       "startDate": "2019",
       "endDate": "2024",
-      "highlights": ["Designed and programmed a novel operant task to measure decision making and kinematics."]
-      "highlights": ["Used kinematic and operant analysis of rodent behavior to understand task related movements."]
-      "highlights": ["Measured pathway activities using in-vivo calcium imaging to analyze their relationship to behavior."]
-      "highlights": ["Manipulated pathway activities with optogenetics to understand their functional contributions."]
-      "highlights": ["Developed a ‘push-pull’ model of how striatal pathways regulate movement trajectory."]
+      "highlights": ["Designed and programmed a novel operant task to measure decision making and kinematics.", "Used kinematic and operant analysis of rodent behavior to understand task related movements.",
+      "Measured pathway activities using in-vivo calcium imaging to analyze their relationship to behavior.","Manipulated pathway activities with optogenetics to understand their functional contributions.", 
+        "Developed a ‘push-pull’ model of how striatal pathways regulate movement trajectory."]
     }
         {
       "name": "Maier & Greenwood Laboratories, University of Colorado Boulder & UC Denver",
