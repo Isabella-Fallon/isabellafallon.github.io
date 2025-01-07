@@ -2,96 +2,67 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Isabella P. Fallon
     - name: Date of Birth
-      value: 14th March 1879
+      value: 30th June 1995
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D., Neurobiology
+      institution: Duke University School of Medicine
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Dissertation Title, Striatal Pathways for Action Counting and Steering
+        - Advisor, Henry Yin
+    - title: B.A., Psychology and Neuroscience
+      institution: University of Colorado Boulder
+      year: 2017
       description:
-        - Description 1.
-        - Description 2.
+        - Thesis Title, Evaluating Stressor Controllability Effects in Female Rats
+        - Advisor, Steven Maier.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Postdoctoral Researcher
+      institution: Yin Laboratory, Duke University
+      year: 2024 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Carrying out cutting-edge research on the neural mechanisms underlying skilled dexterous movements and kinematics.
+        - Mentoring PhD and undergraduate students.
+        
+    - title: Graduate Researcher
+      institution:Yin Laboratory, Duke University School of Medicine 
+      year: 2019-2024
       description:
-        - Description 1.
-        - Description 2.
+        - Designed and programmed a novel operant task to measure decision making and kinematics.
+        - Used kinematic and operant analysis of rodent behavior to understand task related movements.
+        - Measured pathway activities using in-vivo calcium imaging to analyze their relationship to behavior.
+        - Manipulated pathway activities with optogenetics to understand their functional contributions.
+        - Developed a ‘push-pull’ model of how striatal pathways regulate movement trajectory.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Professional Research Associate
+      institution: Maier & Greenwood Laboratories, University of Colorado Boulder & UC Denver
+      year: 2017-2019
+      description: 
 
     - title: Professor of Theoretical Physics
       institution: Karl-Ferdinand University, Prague, Czechoslovakia
       year: 1911 - 1917
       description:
+        - I researched the prophylactic effects of exercise on traumatic stress and the related neurobiological mechanisms.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Undergraduate Research Assistant
+      institution: Maier Laboratory, University of Colorado Boulder
+      year: 2014 - 2017
+      description: 
+        - I researched the neural mechanisms underlying stress resilience. My work identified a key sex difference in stress outcomes and its neurobiological substrate.
+  
+   - title: Undergraduate Research Assistant
+      institution: Todorovic Laboratory, Anschutz Medical Campus
+      year: 2016
+      description: 
+        - My project explored the role of CaV3.2 channels in pain transmission and explored mechanisms of endogenous CaV3.2 channel modulation.
