@@ -1,0 +1,57 @@
+{
+  "education": [
+    {
+      "name": "Duke University School of Medicine",
+      "position": "Ph.D., Neurobiology",
+      "startDate": "2019",
+      "endDate": "2024",
+      "highlights": ["Carrying out cutting-edge research on the neural mechanisms underlying skilled dexterous movements and kinematics. ", "Mentoring PhD and undergraduate students." ]
+    }
+     {
+      "name": "University of Colorado Boulder",
+      "position": "B.A., Psychology and Neuroscience",
+      "startDate": "2013",
+      "endDate": "2017",
+      "highlights": ["Thesis Title: Evaluating Stressor Controllability Effects in Female Rats", "Advisor: Steven Maier"]
+    }
+    
+  ],
+  "experience": [
+    {
+      "name": "Yin Laboratory, Duke University",
+      "position": "Postdoctoral Researcher",
+      "startDate": "2024",
+      "endDate": "Present",
+      "highlights": ["Dissertation Title: Striatal Pathways for Action Counting and Steering", "Advisor: Henry Yin"]
+    }
+     {
+      "name": "Yin Laboratory, Duke University",
+      "position": "Graduate Researcher",
+      "startDate": "2019",
+      "endDate": "2024",
+      "highlights": ["Designed and programmed a novel operant task to measure decision making and kinematics.", "Used kinematic and operant analysis of rodent behavior to understand task related movements.",
+      "Measured pathway activities using in-vivo calcium imaging to analyze their relationship to behavior.","Manipulated pathway activities with optogenetics to understand their functional contributions.", 
+        "Developed a ‘push-pull’ model of how striatal pathways regulate movement trajectory."]
+    }
+        {
+      "name": "Maier & Greenwood Laboratories, University of Colorado Boulder & UC Denver",
+      "position": "Professional Research Associate",
+      "startDate": "2017",
+      "endDate": "2019",
+      "highlights": ["I researched the prophylactic effects of exercise on traumatic stress and the related neurobiological mechanisms. "]
+    }
+     {
+      "name": "Maier Laboratory, University of Colorado Boulder",
+      "position": "Undergraduate Research Assistant",
+      "startDate": "2014",
+      "endDate": "2017",
+      "highlights": ["I researched the neural mechanisms underlying stress resilience. My work identified a key sex difference in stress outcomes and its neurobiological substrate."]
+    }
+        {
+      "name": "Todorovic Laboratory, Anschutz Medical Campus ",
+      "position": "Undergraduate Research Assistant",
+      "startDate": "2016",
+      "highlights": ["My project explored the role of CaV3.2 channels in pain transmission and explored mechanisms of endogenous CaV3.2 channel modulation."]
+    }
+  ]
+}
