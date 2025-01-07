@@ -1,34 +1,48 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Tanner":
+  - firstname: ["Margaret", "MK"]
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Baratta":
+  - firstname: ["Michael", "MV"]
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Mellert":
+  - firstname: ["Simone", "SM"]
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Greenwood":
+  - firstname: ["Benjamin", "BN"]
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Hughes":
+  - firstname: ["Ryan", "RN"]
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Severino":
+  - firstname: ["FPU"]
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Ulloa Severino":
+  - firstname: ["FP"]
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Kim":
+  - firstname: ["N"]
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Lawry":
+  - firstname: ["CM"]
+
+"Watson":
+  - firstname: ["GDR"]
+
+"Roschina":
+  - firstname: ["M"]
+
+"Yin":
+  - firstname: ["HH"]
+
+"Bakhurin":
+  - firstname: ["K"]
+
+"Jiang":
+  - firstname: ["Q"]
+
+"Petter":
+  - firstname: ["EA"]
+
+"Meck":
+  - firstname: ["WH"]
+
