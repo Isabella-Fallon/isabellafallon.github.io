@@ -1,4 +1,4 @@
-ruby '3.3.5'
+ruby '3.3.6'
 gem 'bundler', '2.6.2'
 source 'https://rubygems.org'
 group :jekyll_plugins do
