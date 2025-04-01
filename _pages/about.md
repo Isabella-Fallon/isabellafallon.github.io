@@ -25,5 +25,5 @@ In May 2017, she received her B.A. in Psychology and Neuroscience from the Unive
 
 Isabella is deeply committed to mentoring students, particularly those from underrepresented backgrounds. She has served as a mentor through the URS program at Duke University, the Duke Athletics Student Mentorship Program, and the BSI and UROP programs at the University of Colorado Boulder.
 
-Isabella loves traveling and learning about different cultures, eating, dancing, and spending time in the outdoors (skiing, trail running, climbing, hiking, playing sports) - she is excited about all things in life!
+Isabella loves traveling, doing yoga, dancing, and spending time in the outdoors (skiing, trail running, climbing) - she is excited about all things in life!
 
