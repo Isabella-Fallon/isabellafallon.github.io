@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 Research Interests:
 Neural mechanisms underlying skilled movements, sustained performance, and motor sequences. Biofeedback systems and adaptive neural interfaces.
 
-Isabella Fallon is a postdoctoral associate working under Dr. Polina Anikeeva at Massachusetts Institute of Technology. She is developing neubiolically inspired technoliges that restore and enhance functions lost by the nervous system. 
+Isabella Fallon is a postdoctoral associate working under Dr. Polina Anikeeva at the Massachusetts Institute of Technology. She is developing neurobiologically inspired technologies to restore and enhance functions lost due to nervous system injury or disease. 
 
 In May 2024, Isabella earned her PhD in Neurobiology from Duke University School of Medicine, where she investigated how motor sequences and dexterous movements are executed by the nervous system under the mentorship of Dr. Henry Yin. Her work uncovered a novel "push-pull" mechanism in these pathways that determines movement trajectories towards goal targets.
 
