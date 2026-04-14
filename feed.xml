@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://isabellafallon.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://isabellafallon.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-04-11T19:14:56+00:00</updated><id>https://isabellafallon.github.io/feed.xml</id><title type="html">blank</title><subtitle>My academic website
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://isabellafallon.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://isabellafallon.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-04-14T17:56:15+00:00</updated><id>https://isabellafallon.github.io/feed.xml</id><title type="html">blank</title><subtitle>My academic website
 </subtitle><entry><title type="html">a post with image galleries</title><link href="https://isabellafallon.github.io/sample-posts/2024/12/04/photo-gallery.html" rel="alternate" type="text/html" title="a post with image galleries" /><published>2024-12-04T01:59:00+00:00</published><updated>2024-12-04T01:59:00+00:00</updated><id>https://isabellafallon.github.io/sample-posts/2024/12/04/photo-gallery</id><content type="html" xml:base="https://isabellafallon.github.io/sample-posts/2024/12/04/photo-gallery.html"><![CDATA[<p>The images in this post are all zoomable, arranged into different mini-galleries using different libraries.</p>
 
 <h2 id="lightbox2"><a href="https://lokeshdhakar.com/projects/lightbox2/">Lightbox2</a></h2>
@@ -91,7 +91,7 @@ Content 2
 
 <p>With this you can generate visualizations like:</p>
 
-<ul id="log" class="tab" data-tab="206edbb6-85d2-41ef-a326-4510c8eb6f92" data-name="log">
+<ul id="log" class="tab" data-tab="ecc0b897-cb7d-4172-a00d-84da5624a4ef" data-name="log">
   
       <li class="active" id="log-php">
           <a href="#">php </a>
@@ -106,7 +106,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="206edbb6-85d2-41ef-a326-4510c8eb6f92" data-name="log">
+<ul class="tab-content" id="ecc0b897-cb7d-4172-a00d-84da5624a4ef" data-name="log">
   
       <li class="active">
 <div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">var_dump</span><span class="p">(</span><span class="s1">'hello'</span><span class="p">);</span>
@@ -130,7 +130,7 @@ Content 2
 
 <h2 id="another-example">Another example</h2>
 
-<ul id="data-struct" class="tab" data-tab="d2a74278-23b6-48cf-80d5-0e38f345f41e" data-name="data-struct">
+<ul id="data-struct" class="tab" data-tab="a049d198-d651-4b9b-9d18-8c5b68451e9c" data-name="data-struct">
   
       <li class="active" id="data-struct-yaml">
           <a href="#">yaml </a>
@@ -141,7 +141,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="d2a74278-23b6-48cf-80d5-0e38f345f41e" data-name="data-struct">
+<ul class="tab-content" id="a049d198-d651-4b9b-9d18-8c5b68451e9c" data-name="data-struct">
   
       <li class="active">
 <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">hello</span><span class="pi">:</span>
@@ -163,7 +163,7 @@ Content 2
 
 <h2 id="tabs-for-something-else">Tabs for something else</h2>
 
-<ul id="something-else" class="tab" data-tab="d3ed8e11-a11e-4261-b3f9-ac040d9093e4" data-name="something-else">
+<ul id="something-else" class="tab" data-tab="eb3ec93b-26a9-497c-ae70-1cace943df89" data-name="something-else">
   
       <li class="active" id="something-else-text">
           <a href="#">text </a>
@@ -178,7 +178,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="d3ed8e11-a11e-4261-b3f9-ac040d9093e4" data-name="something-else">
+<ul class="tab-content" id="eb3ec93b-26a9-497c-ae70-1cace943df89" data-name="something-else">
   
       <li class="active">
 <p>Regular text</p>
