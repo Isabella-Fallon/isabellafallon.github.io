@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 Research Interests:
 Motor control, motor learning, adaptive neural interfaces.
 
-Isabella Fallon is a postdoctoral associate in Dr. Polina Anikeeva's lab at MIT, developing neurobiologically inspired technologies to restore motor function in neurodegenerative disease. 
+Isabella Fallon is a postdoctoral associate in Dr. Polina Anikeeva's lab at MIT, developing and applying neurobiologically inspired technologies to better understand motor dysfunction in neurodegenerative disease. 
 
 In May 2024, Isabella earned her PhD in Neurobiology from Duke University School of Medicine, where she investigated how motor sequences and dexterous movements are regulated by projection neurons in the basal ganglia under the mentorship of Dr. Henry Yin. Her work uncovered a novel "push-pull" neural circuit mechanism that determines movement trajectories toward goal targets.
 
