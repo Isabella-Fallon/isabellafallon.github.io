@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Isabella P. Fallon
-    - name: Date of Birth
-      value: 30th June 1995
     - name: Languages
       value: English
 
@@ -27,12 +25,19 @@
 - title: Experience
   type: time_table
   contents:
+  
+    - title: Postdoctoral Researcher
+      institution: Bioelectronics Laboratory, Massachusetts Institute of Technology
+      year: 2024 
+      description:
+        - Studying the role of gut-brain axis in neurodegeneration
+    
     - title: Postdoctoral Researcher
       institution: Yin Laboratory, Duke University
       year: 2024 
       description:
-        - Carrying out cutting-edge research on the neural mechanisms underlying skilled dexterous movements and kinematics.
-        - Mentoring PhD and undergraduate students.
+        - Carried out cutting-edge research on the neural mechanisms underlying skilled dexterous movements and kinematics.
+        - Mentored PhD and undergraduate students.
         
     - title: Graduate Researcher
       institution: Yin Laboratory, Duke University School of Medicine 
